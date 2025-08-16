@@ -3783,10 +3783,10 @@ class CfgVehicles
         weapons[] = {"rhs_weap_m4a1","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         engineer = 1;
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Oficial_Woodland_Dark_Carpincho: rhsusf_spcs_ocp_squadleader
@@ -3803,10 +3803,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m4a1","Binocular","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell","SmokeShellRed"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Binocular","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell","SmokeShellRed"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Suboficial_Woodland_Dark_Carpincho: rhsusf_spcs_ocp_teamleader
@@ -3823,10 +3823,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m4a1","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
 };
