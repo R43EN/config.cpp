@@ -3232,10 +3232,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m4a1","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Ametrallador_Woodland_Dark_Aguara: rhsusf_spcs_ocp_machinegunner
@@ -3252,10 +3252,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m249_pip_L","Throw","Put"};
         magazines[] = {"rhs_200rnd_556x45_M855_box","rhsusf_mag_15Rnd_9x19_JHP","SmokeShell"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m249_pip_L","Throw","Put"};
+        respawnMagazines[] = {"rhs_200rnd_556x45_M855_box","rhsusf_mag_15Rnd_9x19_JHP","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Especialista_AA_Woodland_Dark_Aguara: rhsusf_spcs_ocp_rifleman_alt
@@ -3272,10 +3272,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m4a1","rhs_weap_fim92","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","rhs_fim92_mag","SmokeShell"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","rhs_weap_fim92","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","rhs_fim92_mag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Especialista_AT_Woodland_Dark_Aguara: rhsusf_spcs_ocp_rifleman_alt
@@ -3292,10 +3292,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m4a1","rhs_weap_M136","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","rhs_weap_M136","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Granadero_Woodland_Dark_Aguara: rhsusf_spcs_ocp_grenadier
@@ -3312,10 +3312,10 @@ class CfgVehicles
         respawnLinkedItems[] = {"CMH_SPCS_Woodland_Dark","CMH_Helmet_Woodland_Dark","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
         weapons[] = {"rhs_weap_m4a1_m203","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","rhs_mag_M441_HE","SmokeShell"};
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1_m203","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","rhs_mag_M441_HE","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Operador_UAV_Woodland_Dark_Aguara: rhsusf_spcs_ocp_rifleman
@@ -3333,10 +3333,10 @@ class CfgVehicles
         weapons[] = {"rhs_weap_m4a1","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         backpack = "B_UAV_01_backpack_F";
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Medico_Woodland_Dark_Aguara: rhsusf_spcs_ocp_medic
@@ -3354,10 +3354,10 @@ class CfgVehicles
         weapons[] = {"rhs_weap_m4a1","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell","SmokeShellGreen"};
         attendant = 1;
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell","SmokeShellGreen"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Ingeniero_Woodland_Dark_Aguara: rhsusf_spcs_ocp_rifleman
@@ -3375,10 +3375,10 @@ class CfgVehicles
         weapons[] = {"rhs_weap_m4a1","Throw","Put"};
         magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         engineer = 1;
-        respawnWeapons[] = {"__COPY_WEAPONS__"};
-        respawnMagazines[] = {"__COPY_MAGAZINES__"};
+        respawnWeapons[] = {"rhs_weap_m4a1","Throw","Put"};
+        respawnMagazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag","SmokeShell"};
         items[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
-        respawnItems[] = {"__COPY_ITEMS__"};
+        respawnItems[] = {"ACE_EarPlugs","ACE_fieldDressing","ACE_tourniquet"};
     };
 
     class CMH_Oficial_Woodland_Dark_Aguara: rhsusf_spcs_ocp_squadleader
